@@ -6,6 +6,13 @@
   "description": "天猫图标库",
   "glyphs": [
     {
+      "icon_id": "9257877",
+      "name": "天猫 tmall-logo",
+      "font_class": "tianmaotmall-logo",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
       "icon_id": "49355",
       "name": "天猫购物车 ",
       "font_class": "gouwuche2",
